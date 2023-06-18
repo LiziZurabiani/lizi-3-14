@@ -1,0 +1,30 @@
+.div1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text{
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+p{
+    color: #333333;
+}
+
+button{
+    width: 170px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+hr{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: lightgray;
+    margin-top: 30px;
+}
+
